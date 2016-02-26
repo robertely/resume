@@ -1,11 +1,11 @@
 ﻿Robert W. Ely
 7265 West Center Avenue, Apt A-311, Lakewood, Colorado 80226
-Tel: (732)903-8039 Email: robertely@gamil.com Web: blog.reasonablycorrect.com
+Tel: (732)903-8039 Email: robertely@gmail.com Web: blog.reasonablycorrect.com
 ________________
 
 Shutterstock
 Infrastructure Engineer
-Nov 2013 — present (> 2 years)
+Nov 2013 — present 
 At Shutterstock my responsibilities include a fairly wide range of topics from developer tools and deployment technologies to monitoring, configuration management, and distributed systems. Alongside my technical roles, I also participate in an on-call shift as well as an internal developer help desk and participate in planning meetings under an agile workflow.
 Areas of focus include:
 * Large queuing systems, specifically RabbitMQ
@@ -16,7 +16,7 @@ Areas of focus include:
 
 Outbrain
 Operations Engineer
-May 2012 — Nov 2013 (1 year, 7 months)
+May 2012 — Nov 2013
 As a Web Operations Engineer at Outbrain my time was split between datacenter operations and building and maintaining monitoring and telemetry collection systems.
 Areas of focus included:
 * Managed vendor relationships and datacenter build-outs of thousands of nodes across the country
@@ -27,7 +27,7 @@ Areas of focus included:
 
 Macmillan Higher Education
 Lead Web Operations Engineer
-May 2011 — May 2012 (1 year, 1 month)
+May 2011 — May 2012
 At Macmillan my responsibilities mainly included triage and support of a legacy ASP code base as well as general system administration and ticketing system management.
 Accomplishments included:
 * Administered systems in a mixed environment of RHEL and Server 03
@@ -40,7 +40,7 @@ Accomplishments included:
 
 Stylesight
 Technical Support / Systems Engineer
-Feb 2010 — Aug 2010 (7 months)
+Feb 2010 — Aug 2010
 In my role at Stylesight I balanced my time between IT support, client support, and system administration. I also spent significant time improving customer facing documentation and developing help desk workflows.
 Accomplishments included:
 * Fulfilled IT needs of more than a hundred employees, in several offices
@@ -52,7 +52,7 @@ Accomplishments included:
 
 Liberty Science Center
 Desktop Technician / Exhibit Operations Technician
-Oct 2007 — Jan 2009 (1 year, 4 months)
+Oct 2007 — Jan 2009
 My role at Liberty Science Center included the installation and maintenance of desktops, exhibits, and server hardware for the mid-sized non-profit metropolitan area museum.
 Accomplishments included:
 * Used Microsoft Sysprep and Windows PE to push custom images to hundreds of nodes
@@ -60,11 +60,3 @@ Accomplishments included:
 * Redesigned and improved existing exhibits using programmable logic controllers, complex Crestron systems, and DMX lighting control systems.
 * Rebuilt custom electronics to make exhibits more reliable
 * Managed vendor relationships for IT, as well as the exhibit fabrication department
-
-Interactive Computer Center Inc
-Field Technician
-Jan 2007 — Dec 2007 (1 year)
-
-Vonage
-Tier III Advanced Technical Support Agent
-Jun 2006 — Jan 2007 (8 months)
