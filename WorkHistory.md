@@ -1,6 +1,6 @@
 ###SendGrid
 #####Sr. DevOps Engineer
-######Jun 2016 — Current 
+######Jul 2016 — Current 
 
 
 ###Shutterstock
