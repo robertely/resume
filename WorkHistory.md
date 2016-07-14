@@ -1,6 +1,6 @@
 ###SendGrid
 #####Sr. DevOps Engineer
-######Nov 2013 — May 2016 (2 years, 6 months)
+######Jun 2016 — Current 
 
 
 ###Shutterstock
