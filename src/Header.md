@@ -1,3 +1,3 @@
 # Robert Ely
-> Email: `robertely@gmail.com` Profile: `linkedin.com/in/elyrobert` Phone: `732-903-8039` Location: `Denver Colorado`
+> Email: _robertely@gmail.com_ Profile: _linkedin.com/in/elyrobert_ Phone: _732-903-8039_ Location: _Denver Colorado_
 
