@@ -1,6 +1,5 @@
 
 ## Stylesight
----
 ### Technical Support / Systems Engineer
 ##### Feb 2010 — Aug 2010 (7 months)
 In my role at Stylesight I balanced my time between IT support, client support, and system administration. I also spent significant time improving customer facing documentation and developing help desk workflows.
@@ -15,7 +14,6 @@ In my role at Stylesight I balanced my time between IT support, client support, 
 
 
 ## Liberty Science Center
----
 ### Desktop Technician / Exhibit Operations Technician
 ##### Oct 2007 — Jan 2009 (1 year, 4 months)
 My role at Liberty Science Center included the installation and maintenance of desktops, exhibits, and server hardware for the mid-sized non-profit metropolitan area museum.
@@ -28,7 +26,6 @@ My role at Liberty Science Center included the installation and maintenance of d
 * Managed vender relationships for IT, as well as the exhibit fabrication department
 
 ## Interactive Computer Center Inc
----
 ### Field Technician
 ##### Jan 2007 — Dec 2007 (1 year)
 

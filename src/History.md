@@ -1,5 +1,4 @@
 ## Twilio/SendGrid
----
 ### Staff Observability Engineer
 ##### Jul 2016 — Current
 On the Observability team I've driven initiatives to increase the reliability and performance of our monitoring systems. I've planned and deploying a complete refactor of our VM monitoring stack. I designed and implemented our Kubernetes monitoring stack from scratch and dramatically lowered our operational toil through well tested automation. Before moving to the Observability team I worked on the developer tools team working to improve Jenkins, CI/CD pipelines, and core system Chef Cookbooks.
@@ -14,7 +13,6 @@ On the Observability team I've driven initiatives to increase the reliability an
 * Rebuilt and maintained Jenkins clusters and Chef CI/CD pipelines
 
 ## Shutterstock
----
 ### Infrastructure Engineer
 ##### Nov 2013 - May 2016 (2 years, 7 months)
 At Shutterstock my responsibilities include a fairly wide range of topics from developer tools and deployment technologies to monitoring, configuration management, and distributed systems. Alongside my technical roles, I also participate in an on-call shift as well as an internal developer help desk and participate in planning meetings under an agile workflow.   
@@ -28,7 +26,6 @@ At Shutterstock my responsibilities include a fairly wide range of topics from d
 * Developed Training curriculum for chef and lead classroom style training sessions
 
 ## Outbrain
----
 ### Operations Engineer
 ##### May 2012 — Nov 2013 (1 year, 7 months)
 As a Web Operations Engineer at Outbrain my time was split between datacenter operations and building and maintaining monitoring and telemetry collection systems.
@@ -41,7 +38,6 @@ As a Web Operations Engineer at Outbrain my time was split between datacenter op
 * Participated in a global on-call shift
 
 ## Macmillan Higher Education
----
 ### Lead Web Operations Engineer
 ##### May 2011 — May 2012 (1 year, 1 month)
 At Macmillan my responsibilities mainly included triage and support of a legacy ASP code base as well as general system administration and ticketing system management.
