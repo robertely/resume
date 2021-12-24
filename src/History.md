@@ -1,7 +1,7 @@
 ## Twilio/SendGrid
 ### Staff Observability Engineer
 ##### Jul 2016 — Current
-On the Observability team, I've driven initiatives to increase the reliability and performance of our monitoring systems. I've planned and deploying a complete refactor of our VM monitoring stack. I designed and implemented our Kubernetes monitoring stack from scratch while dramatically lowering our operational toil through well-tested automation. Before moving to the Observability team, I worked on the Developer Tools team working to improve Jenkins, CI/CD pipelines, and core system Chef cookbooks.
+On the Observability team, I've driven initiatives to increase the reliability and performance of our monitoring systems. I've planned and deployed a complete refactor of our VM monitoring stack. I designed and implemented our Kubernetes monitoring stack from scratch while dramatically lowering our operational toil through well-tested automation. Before moving to the Observability team, I worked on the Developer Tools team working to improve Jenkins, CI/CD pipelines, and core system Chef cookbooks.
 
 **Areas of focus:**
 * Maintained Graphite, Prometheus, Sensu, and Grafana at Scale
