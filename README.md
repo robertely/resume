@@ -1,5 +1,5 @@
 # Robert Ely
-> Email: _robertely@gmail.com_ Profile: _linkedin.com/in/elyrobert_ Phone: _732-903-8039_ Location: _Denver Colorado_
+> Email: _robertely@gmail.com_ Profile: _[linkedin.com/in/elyrobert](https://linkedin.com/in/elyrobert)_ Phone: _732-903-8039_ Location: _Denver Colorado_
 
 _Senior Operations Engineer with more than 10 years of experience in DevOps environments—specializing in observability, Kubernetes, large scale time series databases, and physical infrastructures._
 
